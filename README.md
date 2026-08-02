@@ -56,5 +56,5 @@
 <p align="center">⌁ ay, qué milagro que llegaste hasta acá abajo ⌁<br>gracias por leer todo esto, o por hacer scroll rápido fingiendo que lo leíste, da igual, ya estás aquí</p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Z2ZzdTJnNXUwbDlybmFyMTY3cTFkemg4YXBkeDZscDU3NXlwdzJiOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HZzyYYSDpcfHTrQIC9/giphy.gif" width="70%">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Z2ZzdTJnNXUwbDlybmFyMTY3cTFkemg4YXBkeDZscDU3NXlwdzJiOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HZzyYYSDpcfHTrQIC9/giphy.gif" width="100%" height="auto">
 </p>
