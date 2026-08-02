@@ -10,7 +10,7 @@
 𝚝𝚛𝚊𝚝𝚊𝚗𝚍𝚘 𝚍𝚎 𝚌𝚘𝚗𝚟𝚎𝚛𝚝𝚒𝚛 𝚒𝚍𝚎𝚊𝚜 𝚎𝚗 𝚊𝚕𝚐𝚘
 </p>
 
-<img align="right" width=280px alt="pixel art coder" src="https://github.com/user-attachments/assets/f2e5917a-b68e-402e-a9f5-61d1f28dd539" /> 
+<img align="right" width=280px alt="pixel-art-readme-gifs" src="https://cdn.jsdelivr.net/gh/ViratiAkiraNandhanReddy/pixel-art-readme-gifs@v1.0.0/gifs/vtcl/ce7cf567-cbeb-4b9e-abf0-7db1e52cf208.gif" /> 
 
 ### ⌁ Sobre mí 
 - Aprendiz de desarrollo web, siempre a mitad de un tutorial
@@ -31,6 +31,11 @@
 [![Instagram](https://img.shields.io/badge/Instagram-05122A?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/still_josu/)&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-05122A?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:josudm.02@gmail.com)&nbsp;
 
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/ViratiAkiraNandhanReddy/pixel-art-readme-gifs@v1.0.0/gifs/hrzn/e037ecf3-3399-4554-99c2-aeff5c95e52a.gif" width="49%" alt="pixel-art-readme-gifs">
+  <img src="https://cdn.jsdelivr.net/gh/ViratiAkiraNandhanReddy/pixel-art-readme-gifs@v1.0.0/gifs/hrzn/429496d3-aa08-4ce2-9c95-7dacf2d7f835.gif" width="49%" alt="pixel-art-readme-gifs">
+</p>
+
 ### ⌁ Tech Stack 
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp; 
@@ -44,4 +49,13 @@
 ![Godot](https://img.shields.io/badge/-Godot-05122A?style=flat&logo=godotengine&logoColor=478CBF)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp; 
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp; 
+
+---
+
+<p align="center">⌁ ay, qué milagro que llegaste hasta acá abajo ⌁<br>gracias por leer todo esto, o por hacer scroll rápido fingiendo que lo leíste, da igual, ya estás aquí</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnRsM2JkMDFseGUycDlwZ2k0d2txbDM3NmlsMjBlb212cWdrNnZtNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hkqefnFjn2MWVl6xvq/giphy.gif" width="45%">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnRsM2JkMDFseGUycDlwZ2k0d2txbDM3NmlsMjBlb212cWdrNnZtNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/go3pCPP4899Jd3xb4p/giphy.gif" width="45%">
+</p>
