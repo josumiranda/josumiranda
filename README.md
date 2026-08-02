@@ -12,12 +12,12 @@
 <img align="right" width=280px alt="pixel-art-readme-gifs" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aXMzMnFvYTRhdGFrZmc5MGNzZmtra29mZ3Bja3l3OWZmanlpNHhjMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ALEfRrj1D4Xj5gy4Rj/giphy.gif" /> 
 
 ### ⌁ Sobre mí 
-- 👾 Aprendiz de desarrollo web — vivo a mitad de un tutorial y peleado con el mismo bug hace tres días
-- 🎮 Fan del anime y de perderme horas en un buen videojuego, sea un JRPG de 80 horas o un roguelite de 10 minutos "solo una partida más"
-- 🛠 Rompo cosas para entender cómo funcionan, y luego las arreglo mejor de lo que estaban
-- 🎨 También dibujo e ilustro cuando el código me tiene frustrado; el arte es mi otro idioma
-- 🩵💜❤️ Azul, morado y rojo son mis colores de vida — si algo mío no los tiene, probablemente no es mío
-- 🌙 Modo nocturno activado casi siempre, tanto en el editor como en la vida
+- Aprendiz de desarrollo web — vivo a mitad de un tutorial y peleado con el mismo bug hace tres días
+- Fan del anime y de perderme horas en un buen videojuego, sea un JRPG de 80 horas o un roguelite de 10 minutos "solo una partida más"
+- Rompo cosas para entender cómo funcionan, y luego las arreglo mejor de lo que estaban
+- También dibujo e ilustro cuando el código me tiene frustrado; el arte es mi otro idioma
+- Azul, morado y rojo son mis colores de vida — si algo mío no los tiene, probablemente no es mío
+- Modo nocturno activado casi siempre, tanto en el editor como en la vida
 
 ### ⌁ Estoy trabajando en 
 - 🌐 Proyectos web pequeños para practicar lo que voy aprendiendo (HTML/CSS/JS, algo de backend)
@@ -41,6 +41,10 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp; 
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp; 
 ![Godot](https://img.shields.io/badge/-Godot-05122A?style=flat&logo=godotengine&logoColor=478CBF)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=61DAFB)&nbsp;
+![Tailwind](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwindcss&logoColor=06B6D4)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=FCC624)&nbsp;
+![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino&logoColor=00979D)&nbsp;
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio&logoColor=3DDC84)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp; 
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
@@ -52,7 +56,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-05122A?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/still_josu/)&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-05122A?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:josudm.02@gmail.com)&nbsp;
 ![TikTok](https://img.shields.io/badge/TikTok-05122A?style=for-the-badge&logo=tiktok&logoColor=ffffff)&nbsp;
-![YouTube](https://img.shields.io/badge/YouTube%20(próximamente)-05122A?style=for-the-badge&logo=youtube&logoColor=FF0000)&nbsp;
+![YouTube](https://img.shields.io/badge/YouTube-05122A?style=for-the-badge&logo=youtube&logoColor=FF0000)&nbsp;
+
+[![Portafolio](https://img.shields.io/badge/Mi%20Portafolio-05122A?style=for-the-badge&logo=googlechrome&logoColor=8B5CF6)](https://josumiranda.github.io/portfolio.progra.github.io/)
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/ViratiAkiraNandhanReddy/pixel-art-readme-gifs@v1.0.0/gifs/hrzn/e037ecf3-3399-4554-99c2-aeff5c95e52a.gif" width="49%" alt="pixel-art-readme-gifs">
