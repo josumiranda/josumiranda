@@ -6,8 +6,7 @@
 <h3 align="center">Josue Miranda · Josu</h3>
 
 <p align="center">
-𝚍𝚘𝚌𝚞𝚖𝚎𝚗𝚝𝚊𝚗𝚍𝚘 𝚖𝚒𝚜 𝚘𝚋𝚜𝚎𝚜𝚒𝚘𝚗𝚎𝚜 ⌁<br>
-𝚝𝚛𝚊𝚝𝚊𝚗𝚍𝚘 𝚍𝚎 𝚌𝚘𝚗𝚟𝚎𝚛𝚝𝚒𝚛 𝚒𝚍𝚎𝚊𝚜 𝚎𝚗 𝚊𝚕𝚐𝚘
+  <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=documentando+mis+obsesiones+%E2%8C%81;tratando+de+convertir+ideas+en+algo" alt="typing-svg" />
 </p>
 
 <img align="right" width=280px alt="pixel-art-readme-gifs" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aXMzMnFvYTRhdGFrZmc5MGNzZmtra29mZ3Bja3l3OWZmanlpNHhjMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ALEfRrj1D4Xj5gy4Rj/giphy.gif" /> 
