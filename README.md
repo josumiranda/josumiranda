@@ -12,18 +12,20 @@
 <img align="right" width=280px alt="pixel-art-readme-gifs" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aXMzMnFvYTRhdGFrZmc5MGNzZmtra29mZ3Bja3l3OWZmanlpNHhjMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ALEfRrj1D4Xj5gy4Rj/giphy.gif" /> 
 
 ### ⌁ Sobre mí 
-- Aprendiz de desarrollo web — vivo a mitad de un tutorial y peleado con el mismo bug hace tres días
-- Fan del anime y de perderme horas en un buen videojuego, sea un JRPG de 80 horas o un roguelite de 10 minutos "solo una partida más"
+- Amo el desarrollo web, Android e iOS. Vivo entre documentación y peleado con el mismo bug desde hace tres días
+- Me atrae el frontend y el diseño, me encanta que las cosas no solo funcionen sino que también se vean y se sientan bien
+- También le tengo cariño a la electrónica, me gusta destripar aparatos y entender qué hay detrás de los cables
+- Crecí enamorado de las computadoras y la tecnología, desde que era chico ya me viciaba al PC :)
+- Fan del anime y de perderme horas en un buen videojuego, sea un JRPG de 80 horas o un roguelite de 10 minutos jaja
 - Rompo cosas para entender cómo funcionan, y luego las arreglo mejor de lo que estaban
-- También dibujo e ilustro cuando el código me tiene frustrado; el arte es mi otro idioma
-- Azul, morado y rojo son mis colores de vida — si algo mío no los tiene, probablemente no es mío
-- Modo nocturno activado casi siempre, tanto en el editor como en la vida
+- Un intento de artista, dibujo e ilustro cuando el código me tiene frustrado; el arte es mi otro idioma
+- Azul, morado y rojo son mis colores de vida, si algo mío no los tiene, probablemente no es mío
 
 ### ⌁ Estoy trabajando en 
-- 🌐 Proyectos web pequeños para practicar lo que voy aprendiendo (HTML/CSS/JS, algo de backend)
-- 🎮 Aprendiendo Godot para armar mi primer videojuego propio, de cero
-- 🖌 Puliendo mis dos portafolios (web y programación), ambos en construcción
-- 📈 Subiendo de nivel poco a poco: cada proyecto pequeño es una side-quest hacia el juego grande
+- Aprendo día a día nuevas tecnologías y herramientas, y con eso armo todo tipo de proyectos para poner en práctica lo que voy aprendiendo
+- Aprendiendo Godot para armar mi primer videojuego desde cero, con calma pero sin soltarlo
+- Metiéndole horas a la ilustración y el diseño, para eventualmente tener también un portafolio de eso
+- Puliendo mis portafolios, ambos todavía en construcción
 
 <br clear="right"/>
 
@@ -57,8 +59,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-05122A?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:josudm.02@gmail.com)&nbsp;
 ![TikTok](https://img.shields.io/badge/TikTok-05122A?style=for-the-badge&logo=tiktok&logoColor=ffffff)&nbsp;
 ![YouTube](https://img.shields.io/badge/YouTube-05122A?style=for-the-badge&logo=youtube&logoColor=FF0000)&nbsp;
-
-[![Portafolio](https://img.shields.io/badge/Mi%20Portafolio-05122A?style=for-the-badge&logo=googlechrome&logoColor=8B5CF6)](https://josumiranda.github.io/portfolio.progra.github.io/)
+[![Portafolio](https://img.shields.io/badge/Mi%20Portafolio-05122A?style=for-the-badge&logo=googlechrome&logoColor=8B5CF6)](https://josumiranda.github.io/portfolio.progra.github.io/)&nbsp;
+[![Literalmente Josué](https://img.shields.io/badge/Literalmente%20Josué-05122A?style=for-the-badge&logo=googlechrome&logoColor=3B82F6)](https://josumiranda.github.io/josu_portfolio.github.io/)
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/ViratiAkiraNandhanReddy/pixel-art-readme-gifs@v1.0.0/gifs/hrzn/e037ecf3-3399-4554-99c2-aeff5c95e52a.gif" width="49%" alt="pixel-art-readme-gifs">
