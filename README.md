@@ -10,7 +10,7 @@
 𝚝𝚛𝚊𝚝𝚊𝚗𝚍𝚘 𝚍𝚎 𝚌𝚘𝚗𝚟𝚎𝚛𝚝𝚒𝚛 𝚒𝚍𝚎𝚊𝚜 𝚎𝚗 𝚊𝚕𝚐𝚘
 </p>
 
-<img align="right" width=280px alt="pixel-art-readme-gifs" src="https://cdn.jsdelivr.net/gh/ViratiAkiraNandhanReddy/pixel-art-readme-gifs@v1.0.0/gifs/vtcl/ce7cf567-cbeb-4b9e-abf0-7db1e52cf208.gif" /> 
+<img align="right" width=280px alt="pixel-art-readme-gifs" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aXMzMnFvYTRhdGFrZmc5MGNzZmtra29mZ3Bja3l3OWZmanlpNHhjMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ALEfRrj1D4Xj5gy4Rj/giphy.gif" /> 
 
 ### ⌁ Sobre mí 
 - Aprendiz de desarrollo web, siempre a mitad de un tutorial
@@ -56,6 +56,5 @@
 <p align="center">⌁ ay, qué milagro que llegaste hasta acá abajo ⌁<br>gracias por leer todo esto, o por hacer scroll rápido fingiendo que lo leíste, da igual, ya estás aquí</p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnRsM2JkMDFseGUycDlwZ2k0d2txbDM3NmlsMjBlb212cWdrNnZtNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hkqefnFjn2MWVl6xvq/giphy.gif" width="45%">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnRsM2JkMDFseGUycDlwZ2k0d2txbDM3NmlsMjBlb212cWdrNnZtNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/go3pCPP4899Jd3xb4p/giphy.gif" width="45%">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Z2ZzdTJnNXUwbDlybmFyMTY3cTFkemg4YXBkeDZscDU3NXlwdzJiOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HZzyYYSDpcfHTrQIC9/giphy.gif" width="70%">
 </p>
