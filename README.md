@@ -1,33 +1,33 @@
 <p align="center"> 
-  <img src="https://i.redd.it/u0p3zby0qr601.gif" alt="cyberpunk banner" width="100%" height="auto"> 
+  <img src="https://github.com/user-attachments/assets/db1f70a4-c525-4e6f-b55e-ac8fe4e991b8" alt="pixel art banner" width="100%" height="auto"> 
 </p> 
 
 
-<h1 align="center">👾 Hey, I'm <span style="color:#00fff9;">Denki</span> 👾</h1> 
-<h3 align="center">Josue Miranda · también me dicen Josu ⚡</h3>
+<h1 align="center"><span style="color:#00fff9;">Denki</span></h1> 
+<h3 align="center">Josue Miranda · Josu</h3>
 
 
-<img align="right" width=400px alt="cyberpunk ride" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDA1eWFrdGJhMjgxeHM2bXpzdTdxcnNzdnowYXE5djB5a2NkdjNpcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3dhmyq6EKw2x7eFt4X/giphy.gif" /> 
+<img align="right" width=280px alt="pixel art coder" src="https://github.com/user-attachments/assets/f2e5917a-b68e-402e-a9f5-61d1f28dd539" /> 
 
 
-### ⚡ Sobre mí 
-- 💻 Aprendiz de desarrollo web
-- 🔮 Fan del anime, videojuegos y el dev
-- 🚀 Siempre experimentando y rompiendo cosas (para después arreglarlas mejor)
+### Sobre mí 
+- Aprendiz de desarrollo web
+- Fan del anime, videojuegos y el dev
+- Siempre experimentando y rompiendo cosas (para después arreglarlas mejor)
 
 
-### 🚀 Estoy trabajando en: 
+### Estoy trabajando en 
 - Proyectos web pequeños para practicar lo que voy aprendiendo
 - Aprendiendo Godot
 
-### 🎯 Metas: 
+### Metas 
 - Crear un videojuego <br>
 
-### 🌐 Encuéntrame en 
-[![Instagram](https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram&logoColor=E4405F)](https://www.instagram.com/still_josu/)&nbsp;
-[![Gmail](https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=gmail&logoColor=EA4335)](mailto:josudm.02@gmail.com)&nbsp;
+### Contacto
+[![Instagram](https://img.shields.io/badge/Instagram-05122A?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/still_josu/)&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-05122A?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:josudm.02@gmail.com)&nbsp;
 
-### 🛠 &nbsp;Tech Stack 
+### Tech Stack 
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp; 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp; 
